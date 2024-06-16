@@ -1,5 +1,7 @@
 # Gym-Management-System
 A simple gym website using HTML, CSS, JS and Firebase.
+
+You can signup with your account and login to the website.
 ## Screenshots
 ![My Image](https://github.com/nikhilkumar118/Gym-Management-System/blob/main/Screenshots/1.png)
 ![My Image](https://github.com/nikhilkumar118/Gym-Management-System/blob/main/Screenshots/2.png)
